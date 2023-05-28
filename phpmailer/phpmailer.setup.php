@@ -2,9 +2,9 @@
 /* ====================
 [BEGIN_COT_EXT]
 Code=phpmailer
-Name=PHPMailer_v.6.8.0
+Name=PHPMailer
 Description=Отправка почты через SMTP на основе релиза PHPMailer v.6.8.0 от 28.05.2023
-Version=1.8.0
+Version=1.8.0-6.8.0
 Date=2023-05-28
 Author=PHPMailer, esclkm, Cotonti Team, webitproff,
 Copyright=Copyright (c) Andy Prevost, PHPMailer, esclkm, Cotonti Team, webitproff,
