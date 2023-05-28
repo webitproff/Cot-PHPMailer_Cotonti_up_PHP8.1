@@ -1,6 +1,6 @@
 # Cot-PHPMailer_Cotonti_up_PHP8.1
 Плагин для Cotonti отправки почты через SMTP на основе релиза [PHPMailer]([https://github.com/webitproff](https://github.com/PHPMailer/PHPMailer))  v.6.8.0 от 28.05.2023
-<p><a href="[[https://raw.githubusercontent.com/webitproff/cot-adminkacota/main/adminkacota.png](https://raw.githubusercontent.com/webitproff/PHPMailer_Cotonti/main/PHPMailer_for_Cotonti_2023-05-28.png)](https://raw.githubusercontent.com/webitproff/PHPMailer_Cotonti/main/PHPMailer_for_Cotonti_2023-05-28.png)"><img loading="lazy" src="[https://raw.githubusercontent.com/webitproff/cot-adminkacota/main/adminkacota.png](https://raw.githubusercontent.com/webitproff/PHPMailer_Cotonti/main/PHPMailer_for_Cotonti_2023-05-28.png)" width="860" height="420" alt=""></a></p>
+<p><a href="https://raw.githubusercontent.com/webitproff/PHPMailer_Cotonti/main/PHPMailer_for_Cotonti_2023-05-28.png"><img loading="lazy" src="https://raw.githubusercontent.com/webitproff/PHPMailer_Cotonti/main/PHPMailer_for_Cotonti_2023-05-28.png" width="860" height="420" alt=""></a></p>
 
 ## Installation
 
